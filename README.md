@@ -9,12 +9,12 @@ Problem:
 
     Most of the handwriting drawing application in the app store use lots
     of the screen space to show irrelevant step. For example,
-    ```
+
     (0)   1*2*3*4
     (1) = 2*3*4
     (2) = 6*4
     (3) = 24
-    ```
+    
     To calculate (2), we can just display out (1) instead of (1) and (0)
 
 
