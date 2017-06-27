@@ -39,3 +39,9 @@ Implementation/Usage:
 
     There are some other feature in the DrawMath.java, however there are some bug with them.
     Which I might fix or delete later.
+
+Start the problem:
+
+```
+java -jar DrawMath.jar
+```
