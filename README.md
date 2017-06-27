@@ -14,7 +14,7 @@ Problem:
     (1) = 2*3*4
     (2) = 6*4
     (3) = 24
-    
+
     To calculate (2), we can just display out (1) instead of (1) and (0)
 
 
@@ -40,7 +40,7 @@ Implementation/Usage:
     There are some other feature in the DrawMath.java, however there are some bug with them.
     Which I might fix or delete later.
 
-Start the problem:
+Start the program:
 
 ```
 java -jar DrawMath.jar
